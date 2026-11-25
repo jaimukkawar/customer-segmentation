@@ -74,11 +74,7 @@ The selected model is K-Means with 3 clusters.
 - `customers.csv` – Customer dataset
 - `DATASET.md` – Dataset documentation
 - `Proposal.md` – Project proposal
-- `Project_Report.pdf` – Detailed project report
-- `Project_Presentation.pptx` – Project presentation
-- `Viva_Questions.md` – Viva preparation
-- `segmenter.joblib` – Trained model artifact
-- `metrics.json` – Evaluation metrics
+
 
 ## Limitations
 
