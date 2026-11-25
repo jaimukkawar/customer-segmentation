@@ -1,0 +1,24 @@
+{
+  "source": "synthetic",
+  "raw_rows": 1200,
+  "valid_rows": 1200,
+  "removed_rows": 0,
+  "training_rows": 960,
+  "test_rows": 240,
+  "selected_k": 3,
+  "training": {
+    "clusters": 3,
+    "coverage": 1.0,
+    "silhouette": 0.5301722684485156,
+    "davies_bouldin": 0.6678521150029946
+  },
+  "test": {
+    "clusters": 3,
+    "coverage": 1.0,
+    "silhouette": 0.5216419089990285,
+    "davies_bouldin": 0.6952980448830388
+  },
+  "review_margin_threshold": 0.766216988644242,
+  "test_review_flags": 25,
+  "pca_variance": 0.9293739535492764
+}
